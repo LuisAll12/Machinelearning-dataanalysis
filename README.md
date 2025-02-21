@@ -4,8 +4,6 @@
 
 This project was motivated by my ÜK grade, which suffered due to a misunderstanding—I built two models for two problems instead of one. My teachers were strict with their feedback, pushing me to prove myself again. Additionally, I took on this challenge out of personal interest.
 
-
-I used several Models like the Random Forest Classifier or the Voting Classifier. 
 ***
 ## Contents
 * How to download
