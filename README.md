@@ -41,15 +41,14 @@ Each model tested a hypothesis by analyzing key data relationships. While the fi
 
 ### Python Notebook(ipynb)
 
-**Beschreibung:**
-Dieses Projekt befasst sich mit der Analyse von Körperleistungsdaten und der Erstellung von Vorhersagemodellen, um Zusammenhänge zwischen verschiedenen physischen Eigenschaften und der Klassifikation von Personen zu untersuchen. Mithilfe von Daten wie Körpergröße, Gewicht, Griffkraft, Sit-ups, Weitsprungweite und Körperfettanteil werden Modelle trainiert, um Klassifikationen wie Geschlecht und körperliche Fitness vorherzusagen.
+**Description:**
+This project deals with the analysis of body performance data and the creation of prediction models to explore relationships between various physical attributes and the classification of individuals. Using data such as height, weight, grip strength, sit-ups, long jump distance, and body fat percentage, models are trained to predict classifications such as gender and physical fitness.
 
-Das Projekt umfasst auch die Erstellung von Visualisierungen zur Analyse der Daten und deren Korrelationen. Du kannst die wichtigsten Beziehungen zwischen Variablen mithilfe von Grafiken und Heatmaps untersuchen.
+The project also includes the creation of visualizations to analyze the data and its correlations. You can examine the key relationships between variables using graphs and heatmaps.
 
-**Benutzung:**
-Datenvorbereitung: Die CSV-Datei bodyPerformance.csv enthält die benötigten Daten. In diesem Projekt werden duplizierte Daten erkannt und bereinigt.
-Datenvisualisierung: Es werden verschiedene Grafiken generiert, wie z.B. Scatterplots, Boxplots und Histogramme, um die Verteilung der Daten und die Korrelationen zu analysieren.
-Modellierung: Verschiedene Machine-Learning-Modelle wie Random Forest, XGBoost und Voting-Klassifikatoren wurden verwendet, um die Genauigkeit bei der Vorhersage von Klassifikationen (z.B. Geschlecht und Fitness) zu testen. Ein lineares Regressionsmodell wurde zur Analyse des Zusammenhangs zwischen Alter und Blutdruck erstellt.
-Hinweis: Du musst das Projekt nicht mehr ausführen, da alle Grafiken bereits generiert wurden und die Modelle getestet wurden. Die Visualisierungen und die Modellgenauigkeiten sind bereits im Code enthalten.
-
+**Usage:**
+- **Data Preparation**: The CSV file `bodyPerformance.csv` contains the required data. In this project, duplicate data is detected and cleaned.  
+- **Data Visualization**: Various graphs are generated, such as scatter plots, box plots, and histograms, to analyze the distribution of the data and correlations.  
+- **Modeling**: Different machine learning models like Random Forest, XGBoost, and Voting Classifiers were used to test accuracy in predicting classifications (e.g., gender and fitness). A linear regression model was created to analyze the relationship between age and blood pressure.
+**Note**: You do not need to run the project anymore, as all graphics have already been generated and the models have been tested. The visualizations and model accuracies are already included in the code.
 
