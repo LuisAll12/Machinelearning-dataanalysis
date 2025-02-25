@@ -50,5 +50,6 @@ The project also includes the creation of visualizations to analyze the data and
 - **Data Preparation**: The CSV file `bodyPerformance.csv` contains the required data. In this project, duplicate data is detected and cleaned.  
 - **Data Visualization**: Various graphs are generated, such as scatter plots, box plots, and histograms, to analyze the distribution of the data and correlations.  
 - **Modeling**: Different machine learning models like Random Forest, XGBoost, and Voting Classifiers were used to test accuracy in predicting classifications (e.g., gender and fitness). A linear regression model was created to analyze the relationship between age and blood pressure.
+
 **Note**: You do not need to run the project anymore, as all graphics have already been generated and the models have been tested. The visualizations and model accuracies are already included in the code.
 
